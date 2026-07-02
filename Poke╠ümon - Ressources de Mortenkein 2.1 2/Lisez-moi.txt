@@ -1,0 +1,296 @@
+===========================================================================================
+========================:: Pokémon - Ressources de Mortenkein ::===========================
+===========================================================================================
+
+Auteur des ressources : Mortenkein (membre du forum Pokémon Script Project)
+Version 2.1
+
+
+
+Merci d'avoir téléchargé ce dossier RAR contenant mes ressources pour faire un jeu Pokémon.
+
+Vous pouvez diffuser librement mes ressources sans les modifier. Vous n'êtes pas obligé de 
+me remercier si vous les utilisez.
+
+Abréviations utilisées pour les dossiers :
+
+DPP = Pokémon Diamant/Perle/Platine
+OAC = Pokémon Or/Argent/Cristal
+OHG = Pokémon Or HeartGold  et Argent SoulSilver
+RS  = Pokémon Rubis/Saphir
+RSE = Pokémon Rouge-Feu/Vert-Feuille et Pokémon Émeraude
+
+
+											
+___________________________________________________________________________________________
+|Je remercie au passage Alex, Cam, Kyledove, Pio, Speed et Wesker pour les graphismes DPP.|
+|J'ai seulement corrigé, simplifié, amélioré et réorganisé les deux tilesets DPP d'Alex.  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+										        
+
+
+===========================================================================================
+====================:: Contenu du dossier ::===============================================
+===========================================================================================
+
+Animations - Pokémon Rouge-Feu/Vert-Feuille et Pokémon Émeraude (6)
+Animations - Pokémon Or/Argent/Cristal (16)
+Autotiles - Pokémon Rouge-Feu/Vert-Feuille et Pokémon Émeraude (39)
+Autotiles - Pokémon Diamant/Perle/Platine (16)
+Backs, mâles - Pokémon Or HeartGold  et Argent SoulSilver (607)
+Battlers - Jeux Pokémon de la 3e et 4e génération (319)
+Characters - Pokémon Diamant/Perle/Platine (4)
+Characters - Pokémon Or HeartGold  et Argent SoulSilver (2)
+Characters - Pokémon Rubis/Saphir (26)
+Fronts, mâles - Pokémon Or HeartGold  et Argent SoulSilver (607)
+Icons - Pokémon Or HeartGold  et Argent SoulSilver (352)
+Tilesets - Pokémon Rouge-Feu/Vert-Feuille et Pokémon Émeraude (44)
+Tilesets - Pokémon Diamant/Perle/Platine (2)
+Tilesets - Pokémon Or/Argent/Cristal (1)
+Windowskins - Pokémon Rouge-Feu/Vert-Feuille et Pokémon Émeraude (15)
+
+Total des ressources : 2056 ressources de très grande qualité.
+
+
+
+===========================================================================================
+====================:: Index des animations (RF/VF/E) ::===================================
+===========================================================================================
+
+Attaques de feu
+Attaques d'eau
+Attaques diverses 1
+Attaques diverses 2
+Attaques diverses 3
+Attaques végétales
+
+
+===========================================================================================
+====================:: Index des animations (O/A/C) ::=====================================
+===========================================================================================
+
+Attaques aériennes
+Attaques de feu
+Attaques de poison
+Attaques de sol
+Attaques d'eau
+Attaques diverses 1
+Attaques électriques
+Attaques physiques de base
+Attaques végétales
+Bouclier, mur lumière
+Constriction
+Flash, onde folie
+Griffes, coupe, etc.
+Hurlement, grincement, morsure
+Protection, rune-protect
+Rayons
+
+
+===========================================================================================
+====================:: Index des autotiles (RF/VF/E) ::====================================
+===========================================================================================
+
+Arène 1
+Arène 2
+Caverne 1
+Caverne 2
+Caverne 3
+Caverne 4
+Caverne 5
+Caverne 6
+Caverne 7
+Caverne 8
+Caverne 9
+Caverne 10
+Caverne 11
+Caverne 12
+Fleurs 1
+Herbe 1
+Intérieur 1
+Intérieur 2
+Intérieur 3
+Intérieur 4
+Intérieur 5
+Intérieur 6
+Intérieur 7
+Intérieur 8
+Intérieur 9
+Intérieur 10
+Intérieur 11
+Pavé 1
+Pavé 2
+Route 1
+Route 2
+Route 3
+Route 4
+Route 5
+Sable 1
+Sable 2
+Terre 1
+Terre 2
+Terre 3
+
+
+===========================================================================================
+====================:: Index des autotiles (D/P/P) ::======================================
+===========================================================================================
+
+Fleurs 1
+Fleurs 2
+Fleurs 3
+Fleurs 4
+Fleurs 5
+Fleurs 6
+Fleurs 7
+Fleurs 8
+Herbe 1
+Herbe 2
+Pavé 1
+Sable 1
+Sable 2
+Terre 1
+Terre 1
+Terre 3
+
+
+===========================================================================================
+====================:: Index des characters (D/P/P) ::=====================================
+===========================================================================================
+
+Animation herbe
+Arbuste_coupe
+Portes 1
+Portes 2
+Système 1
+
+
+===========================================================================================
+====================:: Index des characters (OHG/ASS) ::===================================
+===========================================================================================
+
+Émoticônes 1
+Émoticônes 2
+
+
+
+===========================================================================================
+====================:: Index des characters (RS) ::========================================
+===========================================================================================
+
+Brendan 1
+Brendan 3
+Brendan 4
+Brendan 5
+Brendan 6
+Brendan 7
+Brendan 8
+Brendan 9
+
+Herobattler_gars (ce n'est pas un character, mais une image)
+persogars (ce n'est pas un character, mais une image)
+
+May 1
+May 2
+May 3
+May 4
+May 5
+May 6
+May 7
+May 8
+May 9
+May 10
+
+Herobattler_fille (ce n'est pas un character, mais une image)
+persofille (ce n'est pas un character, mais une image)
+
+
+Poké Balls - Droite
+Poké Balls - Gauche
+
+   
+          
+===========================================================================================
+====================:: Index des tilesets (RF/VF et R/S/E) ::==============================
+===========================================================================================
+
+Arènes de Hoenn
+Arènes de Kanto
+Ascenseur
+Bases secrètes
+Bateau de croisière
+Cavernes de Hoenn
+Cavernes de Johto/Kanto
+Centrale
+Centre pokémon
+Chenaux/îles
+Commerces de Hoenn
+Commerces de Kanto
+Dôme de combat
+Épave
+Fabrique de bateaux de Poivressel
+Intérieur camion
+Intérieur Hoenn
+Intérieur Kanto/Johto
+Johto, extérieur
+Ligue Pokémon de Hoenn
+Ligue Pokémon de Kanto
+Maison de Léo
+Manoir Pokémon
+Mont Dresseurs
+Mont Mémoria
+New Lavandia
+Pilier Céleste
+Port, téléphérique
+Repaire de la Team Magma
+Repaire de la Team Aqua
+Repaire de la Team Rocket
+Routes sous-marines
+Routes
+Ruines de Tanoby
+Safari
+Souterrains
+Sylphe SARL
+Tour Dresseurs
+Tour Pokémon de Lavanville
+Villes/villages de Hoenn 1
+Villes/villages de Hoenn 2
+Villes/villages de Kanto
+Zone de combat (extérieur)
+Zone de combat (intérieur)
+
+
+===========================================================================================
+====================:: Index des tilesets (D/P/P) ::=======================================
+===========================================================================================
+
+Extérieur
+Intérieur
+
+
+===========================================================================================
+====================:: Index des tilesets (O/A/C) ::=======================================
+===========================================================================================
+
+Extérieur
+
+
+===========================================================================================
+====================:: Index des windowskins (RF/VF/E) ::==================================
+===========================================================================================
+
+Système pokémon 1
+Système pokémon 2
+Système pokémon 3
+Système pokémon 4
+Système pokémon 5
+Système pokémon 6
+Système pokémon 7
+Système pokémon 8
+Système pokémon 9
+Système pokémon 10
+Système pokémon 11
+Système pokémon 12
+Système pokémon 13
+Système pokémon 14
+Système pokémon 15
