@@ -1,0 +1,73 @@
+[gd_scene format=3 uid="uid://cr6ao47nnpbt5"]
+
+[ext_resource type="Texture2D" uid="uid://c66y4rb1w3a1s" path="res://Asset/Tileset/tileset_johto_1_part1.png" id="1_cgxho"]
+[ext_resource type="Texture2D" uid="uid://3l41cgx1i4fg" path="res://Asset/Tileset/basic.png" id="1_ijqmm"]
+[ext_resource type="Texture2D" uid="uid://dr72xw7rpif6b" path="res://Asset/Tileset/Chenaux_Poke╠ümon.png" id="2_c6r8d"]
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_ivpl1"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ysdng"]
+size = Vector2(32, 32)
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_d8dcn"]
+texture = ExtResource("1_cgxho")
+texture_region_size = Vector2i(32, 32)
+3:26/0 = 0
+3:26/0/physics_layer_0/polygon_0/points = PackedVector2Array(-16, -16, 16, -16, 16, 16, -16, 16)
+3:24/size_in_atlas = Vector2i(1, 2)
+3:24/0 = 0
+3:24/0/texture_origin = Vector2i(0, 16)
+3:24/0/z_index = 9
+6:27/size_in_atlas = Vector2i(2, 2)
+6:27/0 = 0
+6:26/size_in_atlas = Vector2i(2, 1)
+6:26/0 = 0
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_c6r8d"]
+texture = ExtResource("1_ijqmm")
+texture_region_size = Vector2i(32, 32)
+4:1/size_in_atlas = Vector2i(2, 2)
+4:1/0 = 0
+4:1/0/texture_origin = Vector2i(16, 16)
+4:1/0/physics_layer_0/polygon_0/points = PackedVector2Array(-48.1132, -48.7505, 16.2502, -47.7946, 16, 16, -47.7946, 16.2502)
+6:0/size_in_atlas = Vector2i(2, 1)
+6:0/0 = 0
+6:0/0/texture_origin = Vector2i(16, 0)
+6:0/0/z_index = 9
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_4weh6"]
+texture = ExtResource("2_c6r8d")
+texture_region_size = Vector2i(32, 32)
+4:159/size_in_atlas = Vector2i(2, 2)
+4:159/0 = 0
+4:159/0/texture_origin = Vector2i(16, 16)
+4:159/0/physics_layer_0/polygon_0/points = PackedVector2Array(-48.1132, -48.1132, 16.5688, -47.476, 16, 16, -47.476, 15.9315)
+4:158/size_in_atlas = Vector2i(2, 1)
+4:158/0 = 0
+4:158/0/texture_origin = Vector2i(16, 0)
+4:158/0/z_index = 9
+6:169/0 = 0
+6:169/0/physics_layer_0/polygon_0/points = PackedVector2Array(-16, -16, 16, -16, 16, 16, -16, 16)
+6:167/size_in_atlas = Vector2i(1, 2)
+6:167/0 = 0
+6:167/0/texture_origin = Vector2i(0, 16)
+6:167/0/z_index = 9
+
+[sub_resource type="TileSet" id="TileSet_4weh6"]
+tile_size = Vector2i(32, 32)
+physics_layer_0/collision_layer = 1
+sources/1 = SubResource("TileSetAtlasSource_c6r8d")
+sources/2 = SubResource("TileSetAtlasSource_4weh6")
+sources/0 = SubResource("TileSetAtlasSource_d8dcn")
+
+[node name="Arbre" type="StaticBody2D" unique_id=571052099]
+position = Vector2(-16, -16)
+physics_material_override = SubResource("PhysicsMaterial_ivpl1")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=167834809]
+position = Vector2(16, 16)
+shape = SubResource("RectangleShape2D_ysdng")
+
+[node name="TileMapLayer" type="TileMapLayer" parent="." unique_id=2097515966]
+tile_map_data = PackedByteArray(0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 26, 0, 0, 0, 0, 0, 255, 255, 0, 0, 3, 0, 24, 0, 0, 0)
+tile_set = SubResource("TileSet_4weh6")
