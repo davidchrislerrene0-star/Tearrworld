@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" format=3 uid="uid://dy4tcgwavadbu"]
+
+[ext_resource type="Texture2D" uid="uid://dup2bkwh0vkvq" path="res://Asset/PokeIconeShiny/0001s.png" id="1_y4pfa"]
+
+[resource]
+atlas = ExtResource("1_y4pfa")
+region = Rect2(0, 0, 32, 32)
